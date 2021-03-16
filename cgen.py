@@ -8,6 +8,7 @@ parser.add_argument('--filename', metavar='filename', help='alternative name of 
 
 args = parser.parse_args()
 filename = args.filename if args.filename else 'cgen.yaml'
+filename = 'cgen.yml' if os.path.exists('cgen.yml') and filename == 'cgen.yaml' else filename
 src = '.c'
 head = '.h'
 compiler = 'clang'

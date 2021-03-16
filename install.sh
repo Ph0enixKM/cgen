@@ -16,7 +16,7 @@ handle() {
     fi
 }
 
-handle wget https://github.com/Ph0enixKM/cgen/releases/latest/download/cgen_linux_x86_64.tar.gz
+handle wget https://github.com/Ph0enixKM/cgen/raw/master/cgen_linux_x86_64.tar.gz
 handle tar -xvzf cgen_linux_x86_64.tar.gz
 handle mv dist ${HOME}/.cgen -f
 handle rm cgen_linux_x86_64.tar.gz

@@ -1,0 +1,11 @@
+libs:
+  my-lib:
+    - triangle
+    - point
+    - line
+modules:
+  - test
+settings:
+  lang: c++
+  name: Project
+  dir: test
