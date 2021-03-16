@@ -4,7 +4,8 @@ libs:
     - point
     - line
 modules:
-  - main
+  - test
 settings:
   lang: c++
-  name: Test
+  name: Project
+  dir: test
