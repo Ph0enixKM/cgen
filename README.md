@@ -20,9 +20,9 @@ CGen can be used easily from terminal
 ```bash
 cgen
 ```
-In order to target specific file use filename flag `--filename="path/to/file"`. CGen will look for configuration file. By default it's searches for `cgen.yaml`.
+In order to target specific file use filename flag `--filename="path/to/file"`. CGen will look for configuration file. By default it's searches for `cgen.yaml` or `cgen.yml`.
 
-**cgen.yaml**
+**cgen.yml**
 ```yaml
 libs:
   my-lib:
