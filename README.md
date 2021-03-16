@@ -4,9 +4,12 @@
 
 # CGen
 ## About
-CGen is a library that can easily and effortlessly generate your project structure with no effort what so ever.
+CGen is a library that can easily and effortlessly generate your project structure.
 
 ## Installation
+Prerequisites:
+- Python 3.5 or higher
+
 In order to install cgen - installation script is provided
 ```bash
 curl https://raw.githubusercontent.com/Ph0enixKM/cgen/master/install.sh | bash
@@ -43,4 +46,3 @@ In order to uninstall cgen - removal script is provided
 ```bash
 curl https://raw.githubusercontent.com/Ph0enixKM/cgen/master/uninstall.sh | bash
 ```
-
