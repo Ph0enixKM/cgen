@@ -9,7 +9,7 @@ CGen is a library that can easily and effortlessly generate your project structu
 ## Installation
 In order to install cgen - installation script is provided
 ```bash
-TODO
+curl https://raw.githubusercontent.com/Ph0enixKM/cgen/master/install.sh | bash
 ```
 
 ## Usage
@@ -41,6 +41,6 @@ settings:
 ## Uninstall
 In order to uninstall cgen - removal script is provided
 ```bash
-TODO
+curl https://raw.githubusercontent.com/Ph0enixKM/cgen/master/uninstall.sh | bash
 ```
 
