@@ -4,7 +4,7 @@
 
 # CGen
 ## About
-CGen is a library that can easily and effortlessly generate your project structure.
+CGen is a CLI command that can easily and effortlessly generate your project structure for C/C++.
 
 ## Installation
 Prerequisites:
